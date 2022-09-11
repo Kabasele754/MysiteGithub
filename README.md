@@ -6,7 +6,7 @@
 
 ## Achilles kabasele 
 
-# ```if age ==18:
-        print()
+# ``` if age ==18:
+        print(“tu es adult”)
 ```
 
