@@ -8,9 +8,10 @@
 
 # ``` 
      if age ==18:
-       
-     if age ==18:
         print(“tu es adult”)
+       
+     if age <15:
+        print(“tu es adolescent”)
      
      elif:
         print("tu es young")
