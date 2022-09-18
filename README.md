@@ -10,10 +10,10 @@
      if age ==18:
         print(“tu es adult”)
        
-     if age <15:
+     elif age <15:
         print(“tu es adolescent”)
      
-     elif:
-        print("tu es young")
+     elif age==0:
+        print("tu es bébé")
 ```
 
