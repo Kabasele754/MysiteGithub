@@ -17,9 +17,3 @@
      elif age==0:
         print("tu es bébé")
 ```
-
-# Code
-
-a program 
-
-Achilles 
